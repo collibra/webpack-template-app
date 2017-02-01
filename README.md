@@ -11,7 +11,7 @@ A minimal, development-focussed template to get you up and running with Webpack,
 - Decide where your files go (to a degree)
 
 
-## Install with three lines
+## Install with
 
 ```
 git clone https://github.com/collibra/webpack-template-app.git;cd webpack-template-app;npm install;npm start
