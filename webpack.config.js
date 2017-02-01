@@ -31,6 +31,7 @@ module.exports = {
     ]
   },
   devServer: {
-    contentBase: "./src"
+    contentBase: "./src",
+    port: "9090"
   }
 };
